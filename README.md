@@ -1,4 +1,4 @@
-# JmeterMidChallenge
+# Appium Junior Challenge
 Steps to follow are:
 
 * Install and open the application.
