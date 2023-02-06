@@ -19,7 +19,7 @@ Steps to follow are:
 
 
 ## Appium installation and setup guide
-You can download the free version at: https://appium.io/docs/en/about-appium/getting-started/?lang=en
+You can follow this guide: https://appium.io/docs/en/about-appium/getting-started/?lang=en
 
 ## Project setup
 * Create a project
